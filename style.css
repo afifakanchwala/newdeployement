@@ -1,0 +1,38 @@
+/* global selectors */
+* {
+    font-family: Verdana, ;
+}
+/* element selector */
+body{
+    background-color: beige;
+}
+
+section{
+    background-color: pink;
+}
+/* class selector */
+.sectionTitle{
+text-decoration: underline;
+}
+/* id selector */
+#specialtitle{
+    text-transform: capitalize;
+}
+    p{
+      background-color: aqua;  
+    }
+    span{
+        background-color: yellow;
+    }
+    h2{
+        color: blue;
+        background-color: beige;
+    }
+    #Sectiontitle{
+        color: plum;
+        background-color: gray;
+    }
+    .sectiontitle{
+        color: green;
+        background-color: aqua;
+    }
